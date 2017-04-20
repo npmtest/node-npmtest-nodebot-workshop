@@ -1,4 +1,7 @@
-# test coverage for  [nodebot-workshop (v3.2.0)](https://github.com/tableflip/nodebot-workshop#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-nodebot-workshop.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-nodebot-workshop) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-nodebot-workshop.svg)](https://travis-ci.org/npmtest/node-npmtest-nodebot-workshop)
+# npmtest-nodebot-workshop
+
+#### basic test coverage for  [nodebot-workshop (v3.2.0)](https://github.com/tableflip/nodebot-workshop#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-nodebot-workshop.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-nodebot-workshop) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-nodebot-workshop.svg)](https://travis-ci.org/npmtest/node-npmtest-nodebot-workshop)
+
 #### A nodeschool workshop that will make your Ardunio alive with johnny-five
 
 [![NPM](https://nodei.co/npm/nodebot-workshop.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/nodebot-workshop)
